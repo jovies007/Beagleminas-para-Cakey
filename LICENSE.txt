@@ -1,0 +1,5 @@
+Creative Commons Zero v1.0 Universal
+
+Este código está dedicado al dominio público bajo la licencia CC0.
+Puedes copiar, modificar y distribuir libremente sin restricciones.
+Más información: https://creativecommons.org/publicdomain/zero/1.0/
